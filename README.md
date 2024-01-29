@@ -1,6 +1,7 @@
 # adv_basics
 
-A new Flutter project.
+Second Project in the journey to learn Flutter.
+It's a simple Quiz app.
 
 ## Getting Started
 
